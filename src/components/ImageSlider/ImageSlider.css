@@ -1,0 +1,27 @@
+.slider {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 320px;
+    width: 480px;
+}
+
+.slider-left-arrow, .slider-right-arrow {
+    display: flex;
+    font-size: 1.25em;
+}
+
+.slider-left-arrow {
+    position: absolute;
+    left: 10px;
+}
+
+.slider-right-arrow {
+    position: absolute;
+    right: 10px;
+}
+
+.slider-image {
+    height: inherit;
+}
