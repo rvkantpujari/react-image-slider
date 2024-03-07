@@ -1,0 +1,2 @@
+body{box-sizing:border-box;margin:0;padding:0}.App{justify-content:center}.App,.slider{align-items:center;display:flex}.slider{height:320px;justify-content:space-around;position:relative;width:480px}.slider-left-arrow,.slider-right-arrow{display:flex;font-size:1.25em}.slider-left-arrow{left:10px;position:absolute}.slider-right-arrow{position:absolute;right:10px}.slider-image{height:inherit}
+/*# sourceMappingURL=main.3d1aee53.css.map*/
